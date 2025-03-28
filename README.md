@@ -25,5 +25,4 @@ This project uses **MUI** for pre-styled React components. Check out [MUI Docs](
 
 ---
 
-Happy coding! 🚀
 
